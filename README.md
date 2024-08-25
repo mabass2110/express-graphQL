@@ -1,6 +1,4 @@
-Here’s a README for your Express.js project that integrates GraphQL:
 
----
 
 # Express.js GraphQL API for Game Catalogue
 
